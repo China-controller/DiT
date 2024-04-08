@@ -1,0 +1,2 @@
+# python sample.py --model DiT-XL/2 --image-size 256 --ckpt ../MinimaxDiffusion/pretrained_models/DiT-XL-2-256x256.pt --vae ema --seed 16546
+CUDA_VISIBLE_DEVICES=7 python sample.py --model DiT-XL/2 --image-size 256 --ckpt ../MinimaxDiffusion/pretrained_models/DiT-XL-2-256x256.pt --vae ema --seed 16546
